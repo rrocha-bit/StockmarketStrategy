@@ -25,7 +25,7 @@ Datasource - Yahoo Finance API
 2 - Download files database_setup.sql and scan_trend-reversals.py
 3 - Run database_setup.sql first to get your database all set.
 4 - Run scan_trend_reversals.py (Insert your server name in the 14th line of the code)
-5 - Check tabble StockReversal to see if new trend reversals have been detected.
+5 - Check table StockReversal to see if new trend reversals have been detected.
 
 
 

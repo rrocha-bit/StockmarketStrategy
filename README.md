@@ -1,6 +1,6 @@
-# StockmarketStrategies
+# Stock Market Strategy
 
-# Sumary
+# Summary
   
 This project will focus on importing data of a stock list from IBOVESPA index (brazilian stock market). The main feature is to detect trend reversals with a very simple trade strategy based on moving averages of 9 periods. This structure will enable to expand the features to analyze other objective trading systems.
 The evolution of this project will be to acheive two more targets:
